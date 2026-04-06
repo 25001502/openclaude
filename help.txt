@@ -1,0 +1,25 @@
+OpenClaude + Ollama Help Request
+
+Hi contributors,
+
+I want to run OpenClaude with Ollama on Windows, but I need guidance.
+
+Please share:
+1. Required versions (OpenClaude + Ollama)
+2. Exact setup steps
+3. Required environment variables
+4. Example config file
+5. Example run command
+6. Common errors and fixes
+
+My environment:
+- OS: Windows
+- Project path: C:\Users\thand\AI\openclaude
+
+What I need most:
+- A minimal working setup (from install to first successful prompt)
+
+Suggested format for replies:
+- Step-by-step commands
+- Expected output
+- Troubleshooting notes
